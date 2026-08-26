@@ -24,9 +24,9 @@ This package provides trained surrogates that predict various cosmological summa
 
 | Stat Name | Symbol | Description |
 |-----------|-------|-------------|
-| CGD_2p | $\rho_{\mathrm{gas}}  /  \rho_{\mathrm{crit}}$ | Cluster gas density (higher resolution) |
-| fGas_2p | $M_{\mathrm{gas}} / M_{\mathrm{500c}} \quad [<R_{\mathrm{500c}}]$ | Cluster gas fraction (higher resolution) |
-| Pk_2p | $P_{\mathrm{sub}}(k) / P_{\mathrm{grav}}(k)$ | Total power spectra ratio (higher resolution) |
+| CGD_2p | $\rho_{\mathrm{gas}}  /  \rho_{\mathrm{crit}}$ | Cluster gas density |
+| fGas_2p | $M_{\mathrm{gas}} / M_{\mathrm{500c}} \quad [<R_{\mathrm{500c}}]$ | Cluster gas fraction  |
+| Pk_2p | $P_{\mathrm{sub}}(k) / P_{\mathrm{grav}}(k)$ | Total power spectra ratio |
 
 ## Input Parameters
 
